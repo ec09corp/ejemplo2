@@ -1,0 +1,6 @@
+{
+  "name": "Fuego & Brasa - Restaurante & Menú Digital",
+  "description": "Sitio web oficial y menú digital interactivo para restaurante con pedidos en línea, carrito de compras y envío directo a WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
